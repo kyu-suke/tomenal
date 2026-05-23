@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>tomenal</title>
+        <item>
+            <title>0.0.1-test</title>
+            <pubDate>Sat, 23 May 2026 00:10:22 +0000</pubDate>
+            <sparkle:version>54</sparkle:version>
+            <sparkle:shortVersionString>0.0.1-test</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/kyu-suke/tomenal/releases/download/v0.0.1-test/tomenal-0.0.1-test.dmg" length="8321263" type="application/octet-stream" sparkle:edSignature="dlbw6xxnZWN4Y6KyISk8JAcJaqPDkkIcbobeFnc+k+AsqWjhu4jeOlVD0yV5Di74cMCrI4foVHqzY6pOs5kODw=="/>
+        </item>
+    </channel>
+</rss>
