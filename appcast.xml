@@ -3,13 +3,13 @@
     <channel>
         <title>tomenal</title>
         <item>
-            <title>0.1.0</title>
-            <pubDate>Sat, 30 May 2026 02:21:31 +0000</pubDate>
-            <sparkle:version>55</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <title>0.1.1</title>
+            <pubDate>Sat, 30 May 2026 14:16:35 +0000</pubDate>
+            <sparkle:version>57</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/kyu-suke/tomenal/releases/download/v0.1.0/tomenal-0.1.0.dmg" length="8327880" type="application/octet-stream" sparkle:edSignature="RBKQLn4YmvCg0kAO65WeKe2uYSyoeoWigndz0I/Akn5eGCzL5FQxNZ9q4K0YjjEKdpeL2aouoP6jKDC/ra2RAg=="/>
+            <enclosure url="https://github.com/kyu-suke/tomenal/releases/download/v0.1.1/tomenal-0.1.1.dmg" length="8327916" type="application/octet-stream" sparkle:edSignature="WNw7P/3jG7WoHUGA/7SLr1lM8lq9GdXStnTAc2lhttzGX+N5jgU0+fL3fhaAxRzONBUYJr/1Z9r96PqlDExwDg=="/>
         </item>
     </channel>
 </rss>
